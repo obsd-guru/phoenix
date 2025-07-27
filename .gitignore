@@ -1,0 +1,9 @@
+note.txt
+adventure
+*.o
+savegame.txt
+savegame.dat
+genesis/old_fellow
+genesis/ansi
+savegame.dat
+users.sqlite
